@@ -16,7 +16,7 @@
     --black-color: #000000;
 }
 body{
-    background-image: url(images/background.jpg);
+    background-image: url(background.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
